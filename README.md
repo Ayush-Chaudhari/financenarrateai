@@ -2,6 +2,11 @@
 
 > Transform raw financial spreadsheets into board-ready executive narratives using Claude AI + Pandas.
 
+## 🌐 Live Demo
+**[https://financenarrateai.onrender.com](https://financenarrateai.onrender.com)**
+
+> Click **"Run Demo Analysis"** to see it in action instantly — no upload needed.
+
 ---
 
 ## Architecture
